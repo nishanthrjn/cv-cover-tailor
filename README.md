@@ -1,6 +1,6 @@
 # CareerForge
 
-**CareerForge** is an engineering-driven platform concept designed to help job seekers **tailor, generate, and track high-quality job applications** in a structured and reproducible way, using AI as an assistive tool — not as a black box.
+**CareerForge** is an engineering-driven platform concept designed to help job seekers **tailor, generate, and track high-quality job applications** in a structured and reproducible way, using AI as an assistive tool.
 
 This repository focuses on the **core system architecture**: backend services, AI provider abstraction, document generation, and data persistence.
 
@@ -136,4 +136,5 @@ cd apps/frontend
 npm run dev
 ```
 *Runs on `http://localhost:3000`.*
+
 
